@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yicheng Jiang Perosnal Websites"
+title                    : "Yicheng Jiang"
 title_separator          : "-"
 name                     : &name "Yicheng Jiang"
 description              : &description "Master Student At Rice"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://y1chengj.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Y1chengJ"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yicheng Jiang"
   pronouns         : he/him # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master Student At Rice"
   location         : "Houston, Texas"
   employer         : "Rice University"
   uri              : # URL
