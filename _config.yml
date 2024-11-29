@@ -21,7 +21,7 @@ repository               : "https://github.com/Y1chengJ"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "me.png"
   name             : "Yicheng Jiang"
   pronouns         : he/him # example: "she/her"  
   bio              : "Master Student At Rice"
