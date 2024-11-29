@@ -16,29 +16,26 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Reasearch Assistant
+  * Chili's Lab, Rice University
+  * Duties includes: Researching on Uncertainty Quantification in Natural Language Generation
+  * Supervisor: Hanjie Chen
   
-Skills
+
+* Summer 2024: Machine Learning Engineer
+  * Tecorigin, Inc. 
+  * Duties includes: Model Deployments
+  * Supervisor: Chengfei Bian
+
+  
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 <!-- Publications
 ======
@@ -60,4 +57,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
